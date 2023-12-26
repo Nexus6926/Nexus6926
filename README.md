@@ -1,5 +1,5 @@
 # 💫 About Me:
-Security researcher | CTF Player/Dev | Bug Hunter | Pentester @CBC-MIT
+Security researcher | CTF Player/Dev | Bug Hunter | Pentester
 
 
 ## 🌐 Socials:
