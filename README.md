@@ -1,7 +1,7 @@
 # 💫 About Me:
 Security researcher | CTF Player/Dev | Bug Hunter | Pentester
 
-##TryHackMe
+## TryHackMe
  <script src="https://tryhackme.com/badge/771660"></script>
 
 ## 🌐 Socials:
